@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @carr0tgit
-- 👀 I’m interested in Unreal Engine (Niagra, Game Development, World Design, Level Design)
-- 🌱 I’m currently learning Unreal Engine
+- 👀 I’m interested in everything game design (vfx, coding, level design, ...)
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on cool stuff
-- 📫 How to reach me you cant
+- 📫 Reach me on discord: carrypott3r
 
 <!---
 carr0tgit/carr0tgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
