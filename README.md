@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carr0tgit
 - 👀 I’m interested in everything game design (vfx, coding, level design, ...) and also ios app development
-- 🌱 I’m currently learning Godot and Swift/SwiftUI
+- 🌱 I’m currently learning Game Dev and Swift/SwiftUI
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 Reach me on discord: carrypott3r
 
